@@ -2,7 +2,7 @@
 Ex08-Windows-basic-commands-batchscript
 ```c
 name: Chintala aman monty
-reg no: 212224040054
+regno : 212224040054
 ```
 
 # AIM:
