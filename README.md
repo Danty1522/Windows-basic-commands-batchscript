@@ -1,5 +1,9 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
+```c
+name: Chintala aman monty
+reg no: 212224040054
+```
 
 # AIM:
 To execute Windows basic commands and batch scripting
